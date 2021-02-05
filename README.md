@@ -1,8 +1,5 @@
 # Hello there 👋
 
-<!--
-**zhiqiyu/zhiqiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Zhiqi Yu (余志琪, pronounced as: Gee-chi Yu).
 
 ## Facts about me
