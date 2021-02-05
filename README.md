@@ -60,5 +60,7 @@ My name is Zhiqi Yu (余志琪, pronounced as: Gee-chi Yu).
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhiqiyu)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+[![HitCount](http://hits.dwyl.com/zhiqiyu/zhiqiyu.svg)](http://hits.dwyl.com/zhiqiyu/zhiqiyu)
 
