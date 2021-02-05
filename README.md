@@ -64,3 +64,5 @@ What now and what next...
 
 [![HitCount](http://hits.dwyl.com/zhiqiyu/zhiqiyu.svg)](http://hits.dwyl.com/zhiqiyu/zhiqiyu)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhiqiyu.zhiqiyu)
+
