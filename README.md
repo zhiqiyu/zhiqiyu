@@ -2,19 +2,19 @@
 
 My name is Zhiqi Yu (余志琪, pronounced as: Gee-chi Yu).
 
-## Facts about me
+## Quick intro
 
 - I am a Graduate Research Assistant at [Center for Spatial Information Science and Systems (CSISS)](http://cloud.csiss.gmu.edu/center), George Mason University. My work is mainly research and software development.
-- I like developing all kinds of software. Currently I focus on full-stack development, but I also enjoy mobile app development.
-- I am also a Machine Learning expert, Random Forest is probably my favorite model. I also find computer vision very interesting.
-- Music, specifically guitar, and games are my other hobbies.
+- I like developing all kinds of software. Currently I focus on **full-stack development**, but I also enjoy developing mobile apps, standalone app etc.
+- I am also a **Machine Learning** expert, Random Forest is probably my favorite model. I also find computer vision very interesting.
+- ⚡ Fun fact: I love guitars and games to my bones!
 
-## Whereabouts
+What now and what next...
 
-- 🔭 I’m currently working on Geofairy mobile and web app.
+- 🔭 I’m currently working on developing Geofairy, a mobile and web app ecosystem.
 - 🌱 I’m currently learning Redux, Chakra-UI, MongoDB.
 - 👯 I’m looking to collaborate on developing web applications, and machine learning projects, especially in remote sensing and GIS field.
-- ⚡ Fun fact: I love guitars and games to my bones!
+
 
 
 ## My tech stack
