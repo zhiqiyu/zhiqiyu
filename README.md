@@ -15,7 +15,7 @@ What now and what next...
 - 🌱 I’m currently learning Redux, Chakra-UI, MongoDB.
 - 👯 I’m looking to collaborate on developing web applications, and machine learning projects, especially in remote sensing and GIS field.
 
-
+I also have a GitHub-hosted blog @ https://zhiqiyu.github.io where I discuss ideas/results of some projects, including **private projects**.
 
 ## My tech stack
 
