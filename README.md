@@ -1,6 +1,6 @@
 # Hello there 👋
 
-My name is Zhiqi Yu (余志琪, pronounced as: Gee-chi Yu).
+My name is Zhiqi Yu (余志琪, pronounced as: Gee-chi Yu). I have a [blog](https://zhiqiyu.github.io) where you can know more about me and my work!
 
 ## Quick intro
 
