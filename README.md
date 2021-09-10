@@ -62,7 +62,5 @@ I also have a GitHub-hosted blog @ https://zhiqiyu.github.io where I discuss ide
 
 ---
 
-[![HitCount](http://hits.dwyl.com/zhiqiyu/zhiqiyu.svg)](http://hits.dwyl.com/zhiqiyu/zhiqiyu)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhiqiyu.zhiqiyu)
 
