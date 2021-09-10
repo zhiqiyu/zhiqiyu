@@ -49,6 +49,7 @@ I also have a GitHub-hosted blog @ https://zhiqiyu.github.io where I discuss ide
 
 <span>
   <img alt="Spring" style="margin-right: 10px;" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Django" style="margin-right: 10px;" src="https://shields.io/badge/Django%20-%23092E20.svg?style=for-the-badge&logo=django" />
   <img alt="Node.js" style="margin-right: 10px;" src="https://img.shields.io/badge/node%2Ejs%20-%23339933.svg?&style=for-the-badge&logo=node%2Ejs&logoColor=white"/>
   <img alt="Express.js" style="margin-right: 10px;" src="https://img.shields.io/badge/express%2Ejs%20-%23000000.svg?&style=for-the-badge"/>
   <img alt="MongoDB" style="margin-right: 10px;" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
